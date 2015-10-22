@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+// ----------------------------------------
+// ${1:comments}
+// ----------------------------------------
+]]></content>
+	<tabTrigger>comm</tabTrigger>
+	<scope>source</scope>
+</snippet>

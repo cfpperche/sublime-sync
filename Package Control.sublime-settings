@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AngularJS",
+		"AngularJS Snippets",
+		"AngularZen",
+		"CMakeEditor",
+		"ColorPicker",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"IndentX",
+		"JavaScriptNext - ES6 Syntax",
+		"jQuery",
+		"JSHint",
+		"Package Control",
+		"Python PEP8 Autoformat",
+		"Sass",
+		"SassBeautify",
+		"SublimeAStyleFormatter",
+		"SublimeLinter-xmllint",
+		"Terminal",
+		"TernJS"
+	]
+}

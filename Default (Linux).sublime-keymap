@@ -1,0 +1,5 @@
+[
+		{ "keys": ["ctrl+shift+alt+s"], "command": "prompt_save_as" },
+    { "keys": ["ctrl+shift+s"], "command": "save_all" },
+    { "keys": ["alt+w"], "command": "sass_beautify" }
+]
