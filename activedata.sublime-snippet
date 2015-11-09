@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+/**
+* @license
+*/
+(function(angular, undefined) {
+  'use strict';
+  /**
+  * @ngdoc doc
+  * @name name
+  * @author author - 2014
+  * @description # about
+  */
+  var module = angular.module('activeresource');
+  module
+})(angular);
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>activedata</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>
