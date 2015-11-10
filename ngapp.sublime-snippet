@@ -7,9 +7,9 @@
 * @author ${6:author} - ${7:year}
 * @description # ${8:about}
 */
-angular.module('${1:module}'${2:, []});
+angular.module('${1:module}')
 ${3:}
 ]]></content>
-    <tabTrigger>ngmod</tabTrigger>
+    <tabTrigger>ngapp</tabTrigger>
     <scope>source.js</scope>
 </snippet>
