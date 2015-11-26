@@ -1,12 +1,12 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"font_size": 11,
-	"hot_exit": false, 
-	"remember_open_files": false,
-	"remember_full_screen": true,
+	"hot_exit": false,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"remember_full_screen": true,
+	"remember_open_files": false,
 	"tab_size": 2
 }
