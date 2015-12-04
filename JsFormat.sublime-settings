@@ -1,8 +1,8 @@
 {
 	// exposed jsbeautifier options
 	"indent_with_tabs": false,
-	"preserve_newlines": false,
-	"max_preserve_newlines": 4,
+	"preserve_newlines": true,
+	"max_preserve_newlines": 3,
 	"space_in_paren": false,
 	"jslint_happy": false,
 	"brace_style": "collapse",
