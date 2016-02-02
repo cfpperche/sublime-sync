@@ -1,5 +1,36 @@
 {
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		"._d",
+		".metadata",
+		".settings",
+		"__pycache__"
+	],
 	"font_size": 12,
 	"hot_exit": false,
 	"ignored_packages":
@@ -9,11 +40,8 @@
 	"remember_full_screen": true,
 	"remember_open_files": false,
 	"tab_size": 2,
-
-	"folder_exclude_patterns": [".svn", "._d", ".metadata", ".settings", "__pycache__"],
-	"file_exclude_patterns": ["*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", "*.class", "*.psd", "*.db", "*.sublime-workspace"],
-  "translate_tabs_to_spaces": true,
-  "trim_trailing_white_space_on_save": true,
-  "word_wrap": true,
-  "wrap_width": 0
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true,
+	"wrap_width": 0
 }
